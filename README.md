@@ -13,3 +13,11 @@ Ubuntu 18.04 is what we are recommending.
 Can be ordered here:
 
 https://www.vultr.com/?ref=7670198
+
+We recommend the program Termius which is free.
+
+Download it here:
+
+https://www.termius.com 
+
+The setup is easier with this program when running the commands on the VPS
